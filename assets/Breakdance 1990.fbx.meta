@@ -1,0 +1,187 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 52
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "34190": {
+      "importer": "gltf-scene",
+      "uuid": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@34190",
+      "displayName": "",
+      "id": "34190",
+      "name": "Breakdance 1990.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "01512": {
+      "importer": "gltf-mesh",
+      "uuid": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@01512",
+      "displayName": "",
+      "id": "01512",
+      "name": "Beta_Joints.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eca75": {
+      "importer": "gltf-mesh",
+      "uuid": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@eca75",
+      "displayName": "",
+      "id": "eca75",
+      "name": "Beta_Surface.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18d6f": {
+      "importer": "gltf-animation",
+      "uuid": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@18d6f",
+      "displayName": "",
+      "id": "18d6f",
+      "name": "mixamo.com.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.4583333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 52
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0f0f9": {
+      "importer": "gltf-material",
+      "uuid": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@0f0f9",
+      "displayName": "",
+      "id": "0f0f9",
+      "name": "Beta_Joints_MAT.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "124e8": {
+      "importer": "gltf-material",
+      "uuid": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@124e8",
+      "displayName": "",
+      "id": "124e8",
+      "name": "asdf1:Beta_HighLimbsGeoSG2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 0.4583333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "mixamo.com",
+            "from": 0,
+            "to": 0.4583333432674408,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@34190",
+    "assetFinder": {
+      "meshes": [
+        "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@01512",
+        "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@eca75"
+      ],
+      "skeletons": [
+        "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@30732",
+        "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@f1394"
+      ],
+      "textures": [],
+      "materials": [
+        "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@0f0f9",
+        "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@124e8"
+      ],
+      "scenes": [
+        "cdf1357e-a93d-4249-9bf1-a1dae7caa4ff@34190"
+      ]
+    }
+  }
+}
